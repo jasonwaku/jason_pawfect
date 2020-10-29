@@ -1,0 +1,8 @@
+# Referenced at /Users/jasondwaku/Documents/FlutterProjects/pawfect/PawFect/pb_app/combined/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:23
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/jasondwaku/Documents/FlutterProjects/pawfect/PawFect/pb_app/combined/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:29
+-keep class com.mindvision.pawfect.MainActivity { <init>(); }
+# Referenced at /Users/jasondwaku/Documents/FlutterProjects/pawfect/PawFect/pb_app/combined/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:23
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/jasondwaku/Documents/FlutterProjects/pawfect/PawFect/pb_app/combined/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:71
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }

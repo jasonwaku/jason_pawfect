@@ -1,0 +1,13 @@
+const String HomeScreenRoute = 'home-page';
+const String LoginScreenRoute = 'login-screen';
+const String SplashScreenRoute = 'splash-screen';
+const String UserRegistrationScreenRoute = 'user-registration-page';
+const String UserProfileViewScreenRoute = 'user-profile-page';
+const String PetRegistrationScreenRoute = 'pet-registration-page';
+const String PetAddNewScreenRoute = 'pet-add-new-page';
+const String PetProfileViewScreenRoute = 'pet-profile-page';
+const String GeneralHomeScreenRoute = 'general-home-page';
+const String PremiumHomeScreenRoute = 'premium-home-page';
+const String ProHomeScreenRoute = 'premium-home-page';
+const String DailyGuideScreenRoute = 'daily-guide-page';
+const String MealPlanScreenRoute = 'meal-plan-page';

@@ -1,0 +1,4 @@
+#Thu Oct 29 11:50:30 IST 2020
+base.0=/Users/jasondwaku/Documents/FlutterProjects/pawfect/PawFect/pb_app/combined/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

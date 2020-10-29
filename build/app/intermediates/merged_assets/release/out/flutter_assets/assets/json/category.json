@@ -1,0 +1,3116 @@
+[
+  {
+    "id": 1,
+    "name": "Herbs and Spices",
+    "foods": [
+      {
+        "id": 199,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 7.19,
+        "name": "Basil, green, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 200,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 15.66,
+        "name": "Cinnamon, dried, ground",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 201,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.1,
+        "name": "Coriander, fresh, leaves & stems",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 202,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 3.09,
+        "name": "Dill, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 203,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.68,
+        "name": "Ginger, dried, ground",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 204,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 4.47,
+        "name": "Mint, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 205,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.86,
+        "name": "Nutmeg, dried, ground",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 206,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 10.79,
+        "name": "Oregano, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 207,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.04,
+        "name": "Parsley, continental, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 208,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.82,
+        "name": "Parsley, curly, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 209,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.61,
+        "name": "Parsley, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 210,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.8,
+        "name": "Pepper, black, ground",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 211,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 18.29,
+        "name": "Rosemary, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 212,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 18.15,
+        "name": "Sage, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 213,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 9.4,
+        "name": "Thyme, dried, ground",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 214,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.56,
+        "name": "Turmeric, dried, ground",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Grains",
+    "foods": [
+      {
+        "id": 165,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.36,
+        "name": "Amaranth, grain, whole, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 166,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.19,
+        "name": "Barley, pearl, boiled, no added fat or salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 167,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.15,
+        "name": "Barley, pearl, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 168,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.25,
+        "name": "Bulgur, soaked in water, no added fat or salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 169,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.11,
+        "name": "Bulgur, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 170,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Cornmeal (polenta), uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 171,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.15,
+        "name": "Couscous, boiled, no added fat or salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 172,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.14,
+        "name": "Couscous, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 173,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Millet, boiled, no added fat or salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 174,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Millet, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 175,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.13,
+        "name": "Oats, rolled, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 176,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.19,
+        "name": "Pasta, white wheat flour, boiled from dry, no added salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 177,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.1,
+        "name": "Pasta, white wheat flour, dry",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 178,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.2,
+        "name": "Pasta, wholemeal wheat flour, boiled from dry, no added salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 179,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.17,
+        "name": "Pasta, wholemeal wheat flour, dry",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 180,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.15,
+        "name": "Peanut butter, no added sugar or salt, BEWARE XYLITOL",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 181,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.92,
+        "name": "Psyllium, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 182,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.13,
+        "name": "Quinoa, cooked in water, no added salt",
+        "omega_ratio": 0.02,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 183,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Quinoa, uncooked",
+        "omega_ratio": 0.02,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 184,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Rice, brown, boiled, no added salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 185,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Rice, brown, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 186,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Rice, white, boiled or rice cooker, no added salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 187,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Rice, white, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 188,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Rice, wild, boiled, no added salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 189,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Rice, wild, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 190,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.15,
+        "name": "Rye, grain, whole, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 191,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.15,
+        "name": "Semolina, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 192,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Sorghum, grain, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 193,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Spelt, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 194,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 4,
+        "name": "Tapioca, pearl or seed style, boiled, no added fat or salt",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 195,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2,
+        "name": "Tapioca, pearl or seed style, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 196,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.11,
+        "name": "Triticale, grain, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 197,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.08,
+        "name": "Wheat bran, unprocessed, uncooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 198,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.08,
+        "name": "Wheat germ",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dairy",
+    "foods": [
+      {
+        "id": 9,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.4,
+        "name": "Cheese, cheddar, natural, reduced fat (approximately 25%)",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 10,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.6,
+        "name": "Cheese, cheddar, natural, regular fat",
+        "omega_ratio": 0.03,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 11,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.8,
+        "name": "Cheese, cottage, unflavoured, no salt",
+        "omega_ratio": 0.02,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 12,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.41,
+        "name": "Cheese, edam",
+        "omega_ratio": 0.03,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 13,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.21,
+        "name": "Cheese, fetta (feta)",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 14,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.99,
+        "name": "Cheese, goat, firm",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 15,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.32,
+        "name": "Cheese, goat, soft",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 16,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.22,
+        "name": "Cheese, halloumi",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 17,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.33,
+        "name": "Cheese, mozzarella",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 18,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.39,
+        "name": "Cheese, parmesan, dried, finely grated",
+        "omega_ratio": 0.04,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 19,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.39,
+        "name": "Cheese, parmesan, fresh",
+        "omega_ratio": 0.35,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 20,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.42,
+        "name": "Cheese, ricotta",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 21,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.03,
+        "name": "Cream, regular fat",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 22,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.04,
+        "name": "Cream, sour, regular fat",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 23,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.24,
+        "name": "Kifir, natural",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 24,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.41,
+        "name": "Milk, cow, fluid, lactose free, reduced fat (1% fat)",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 25,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.33,
+        "name": "Milk, cow, fluid, lactose free, regular fat (3.5% fat)",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 26,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.18,
+        "name": "Milk, cow, reduced fat (1% fat)",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 27,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.18,
+        "name": "Milk, cow, whole",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 28,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.33,
+        "name": "Tofu (soy bean curd), firm, as purchased",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 29,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.17,
+        "name": "Yoghurt, natural, regular fat",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Oils",
+    "foods": [
+      {
+        "id": 265,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, almond",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 266,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, canola",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 267,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, coconut",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 268,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, fish, cod liver",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 269,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, fish, herring",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 270,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, fish, menhaden",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 271,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, fish, salmon",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 272,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, fish, sardine",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 273,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, grapeseed",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 274,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, hemp seed",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 275,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1,
+        "name": "Oil, linseed or flaxseed",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 276,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, olive",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 277,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, palm",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 278,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, peanut",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 279,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, rice bran",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 280,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, soybean",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 281,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, sunflower",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 282,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, vegetable",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 283,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Oil, wheat germ",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eggs",
+    "foods": [
+      {
+        "id": 30,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 45.24,
+        "name": "Egg shell",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 31,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.26,
+        "name": "Egg, chicken, whole, fried, no fat added, no shell",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 32,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.3,
+        "name": "Egg, chicken, whole, hard-boiled, no shell",
+        "omega_ratio": 0.05,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 33,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.26,
+        "name": "Egg, chicken, whole, poached, no shell",
+        "omega_ratio": 0.05,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 34,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.26,
+        "name": "Egg, chicken, whole, raw no shell",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 35,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.29,
+        "name": "Egg, duck, no shell",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 36,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.28,
+        "name": "Egg, quail, no shell",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fruit & Vegetables",
+    "foods": [
+      {
+        "id": 37,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.35,
+        "name": "Apple, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 38,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.75,
+        "name": "Apple, fuji, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 39,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.5,
+        "name": "Apple, golden delicious, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 40,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.56,
+        "name": "Apple, granny-smith, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 41,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.4,
+        "name": "Apple, pink lady, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 42,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.56,
+        "name": "Apple, red delicious, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 43,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.56,
+        "name": "Apple, red skin, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 44,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.56,
+        "name": "Apple, royal gala, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 45,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.56,
+        "name": "Apricot, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 46,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.73,
+        "name": "Apricot, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 47,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.89,
+        "name": "Artichoke heart, canned in brine, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 48,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.36,
+        "name": "Artichoke, globe, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 49,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.33,
+        "name": "Artichoke, globe, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 50,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.27,
+        "name": "Artichoke, jerusalem, peeled, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 51,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.26,
+        "name": "Artichoke, jerusalem, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 52,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.34,
+        "name": "Asparagus, canned in brine, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 53,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.26,
+        "name": "Asparagus, green, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 54,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.26,
+        "name": "Asparagus, green, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 55,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.2,
+        "name": "Avocado, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 56,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.88,
+        "name": "Bamboo shoot, canned in water, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 57,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.48,
+        "name": "Banana, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 58,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.32,
+        "name": "Bean, green, fresh, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 59,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.41,
+        "name": "Bean, green, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 60,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.79,
+        "name": "Bean, green, frozen, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 61,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.5,
+        "name": "Beetroot, canned in brine, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 62,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.24,
+        "name": "Beetroot, fresh, purple, peeled, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 63,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.23,
+        "name": "Beetroot, fresh, purple, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 64,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.03,
+        "name": "Blackberry, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 65,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1,
+        "name": "Blueberry, purchased frozen",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 66,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1,
+        "name": "Blueberry, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 67,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 3.42,
+        "name": "Bok choy, steamed",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 68,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.96,
+        "name": "Bok choy/Pak Choi, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 69,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.48,
+        "name": "Broccoli, fresh, cooked, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 70,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.43,
+        "name": "Broccoli, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 71,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.25,
+        "name": "Brussels sprout, fresh, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 72,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.22,
+        "name": "Brussels sprout, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 73,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.71,
+        "name": "Cabbage, Chinese, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 74,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.63,
+        "name": "Cabbage, Chinese, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 75,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.3,
+        "name": "Cabbage, red, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 76,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.17,
+        "name": "Cabbage, red, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 77,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.11,
+        "name": "Cabbage, savoy, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 78,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.98,
+        "name": "Cabbage, savoy, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 79,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.91,
+        "name": "Cabbage, white, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 80,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.8,
+        "name": "Cabbage, white, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 81,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.47,
+        "name": "Capsicum, green/Green Bell Pepper, green, fresh, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 82,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.47,
+        "name": "Capsicum, green/Green Bell Pepperreen, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 83,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.17,
+        "name": "Capsicum, red,/Red Bell Pepper, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 84,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.15,
+        "name": "Capsicum, red/ Red Bell Pepper, fresh, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 85,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.87,
+        "name": "Carrot, peeled, fresh, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 86,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.84,
+        "name": "Carrot, peeled, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 87,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.42,
+        "name": "Cauliflower, fresh, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 88,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.39,
+        "name": "Cauliflower, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 89,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.62,
+        "name": "Cherry, raw, BEWARE SEED",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 90,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Corn, kernels, from frozen, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 91,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Corn, kernels, frozen, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 92,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.73,
+        "name": "Cranberry, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 93,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.72,
+        "name": "Cucumber, common, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 94,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1,
+        "name": "Cucumber, common, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 95,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 3.26,
+        "name": "Cumquat (kumquat), raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 96,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.81,
+        "name": "Date, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 97,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.87,
+        "name": "Eggplant, unpeeled, fresh, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 98,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.88,
+        "name": "Eggplant, unpeeled, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 99,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.64,
+        "name": "Endive, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 100,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.43,
+        "name": "Feijoa, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 101,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.42,
+        "name": "Fennel, fresh, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 102,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.4,
+        "name": "Fennel, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 103,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.99,
+        "name": "Fig, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 104,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.71,
+        "name": "Fig, fresh, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 105,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.5,
+        "name": "Ginger, peeled, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 106,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 23.75,
+        "name": "Goji berry, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 107,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.17,
+        "name": "Grapefruit, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 108,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.25,
+        "name": "Guava, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 109,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.86,
+        "name": "Jackfruit, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 110,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.63,
+        "name": "Kale, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 111,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.69,
+        "name": "Kiwifruit, gold, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 112,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.9,
+        "name": "Kiwifruit, green, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 113,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.25,
+        "name": "Lemon, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 114,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.65,
+        "name": "Lettuce, cos/romaine, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 115,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.82,
+        "name": "Lettuce, iceberg, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 116,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.22,
+        "name": "Lime, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 117,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.48,
+        "name": "Loquat, peeled, raw, BEWARE SEEDS",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 118,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.06,
+        "name": "Lychee/litchi, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 119,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.53,
+        "name": "Mandarin, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 120,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.64,
+        "name": "Mango, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 121,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 3.55,
+        "name": "Melon, honey dew, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 122,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.5,
+        "name": "Melon, rockmelon, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 123,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.36,
+        "name": "Melon, watermelon, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 124,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.72,
+        "name": "Mixed vegetables, purchased frozen, carrot, corn & pea/bean, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 125,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.53,
+        "name": "Mulberry, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 126,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Mushroom, common, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 127,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Mushroom, common, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 128,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.35,
+        "name": "Nectarine, yellow, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 129,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.38,
+        "name": "Okra, cooked, no added fat",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 130,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.3,
+        "name": "Okra, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 131,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.96,
+        "name": "Orange, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 132,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.67,
+        "name": "Parsnip, peeled, fresh, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 133,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.63,
+        "name": "Parsnip, peeled, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 134,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.8,
+        "name": "Pawpaw (papaya), peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 135,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.24,
+        "name": "Pea, green, fresh, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 136,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.25,
+        "name": "Pea, green, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 137,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.25,
+        "name": "Peach, yellow, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 138,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.67,
+        "name": "Pear, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 139,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.71,
+        "name": "Persimmon, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 140,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 4,
+        "name": "Pineapple, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 141,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.89,
+        "name": "Plum, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 142,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.35,
+        "name": "Plum, unpeeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 143,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.39,
+        "name": "Pomegranate, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 144,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.9,
+        "name": "Prune (dried plum)",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 145,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.47,
+        "name": "Quince, peeled, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 146,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.71,
+        "name": "Raspberry, purchased frozen",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 147,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.76,
+        "name": "Raspberry, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 148,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.88,
+        "name": "Strawberry, purchased frozen",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 149,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.92,
+        "name": "Strawberry, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Legumes",
+    "foods": [
+      {
+        "id": 219,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.17,
+        "name": "Bean, broad, fresh, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 220,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.18,
+        "name": "Bean, broad, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 221,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.37,
+        "name": "Bean, edamame, from frozen, cooked",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 222,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.38,
+        "name": "Bean, haricot, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 223,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.36,
+        "name": "Bean, red kidney, canned, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 224,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.11,
+        "name": "Bean, red kidney, fresh, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 225,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Bean, red kidney, fresh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 226,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.52,
+        "name": "Chickpea, canned, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 227,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.22,
+        "name": "Lentil, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 228,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.17,
+        "name": "Pea, split, boiled, drained",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Beef",
+    "foods": [
+      {
+        "id": 1,
+        "bone_percentage": 50,
+        "calcium_phosphorous_ratio": 2,
+        "name": "Beef Ox Tail, Raw, with bone for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 2,
+        "bone_percentage": 52,
+        "calcium_phosphorous_ratio": 1.97,
+        "name": "Beef Ribs, Meaty, Raw, with bone for consumption",
+        "omega_ratio": 0.38,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 3,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.09,
+        "name": "Beef, all cuts, lean, 15% fat, raw, no bone",
+        "omega_ratio": 1,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 4,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.43,
+        "name": "Beef, all cuts, separable fat, raw",
+        "omega_ratio": 0.01,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 5,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.14,
+        "name": "Beef, all cuts, untrimmed, raw, no bone",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 6,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.09,
+        "name": "Beef, mince, 15% fat, raw",
+        "omega_ratio": 1,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 7,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.11,
+        "name": "Beef, mince, 20% fat, raw, no bone",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 8,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Beef, mince, 30% fat, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Veal",
+    "foods": [
+      {
+        "id": 333,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.1,
+        "name": "Veal, all cuts, lean, raw, no bone",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 334,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.2,
+        "name": "Veal, all cuts, seam fat, raw, no bone",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Lamb & Mutton",
+    "foods": [
+      {
+        "id": 215,
+        "bone_percentage": 27,
+        "calcium_phosphorous_ratio": 0.2,
+        "name": "Lamb ribs, meaty, raw, with bone for consumption",
+        "omega_ratio": 0.3,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 216,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Lamb, all lean cuts, raw, no bone",
+        "omega_ratio": 0.36,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 217,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.1,
+        "name": "Lamb, mince, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 218,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Mutton, all cuts, lean, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Goat",
+    "foods": [
+      {
+        "id": 164,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Goat, meat, all cuts, untrimmed, raw, no bone",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pork",
+    "foods": [
+      {
+        "id": 293,
+        "bone_percentage": 30,
+        "calcium_phosphorous_ratio": 2,
+        "name": "Pork ribs, meaty rack, raw, with bone for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 294,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.08,
+        "name": "Pork, all cuts, lean, raw",
+        "omega_ratio": 0.09,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 295,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Pork, all cuts, untrimmed, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 296,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.08,
+        "name": "Pork, mince, untrimmed, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Poultry",
+    "foods": [
+      {
+        "id": 297,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2,
+        "name": "Chicken foot, whole, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 298,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.98,
+        "name": "Chicken neck, skinless, raw, including bone for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 299,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Chicken, breast, lean flesh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 300,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.06,
+        "name": "Chicken, breast, lean flesh, skin & fat, raw",
+        "omega_ratio": 0.01,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 301,
+        "bone_percentage": 30,
+        "calcium_phosphorous_ratio": 1.98,
+        "name": "Chicken, drumstick, lean flesh, skin & fat, raw, with bone for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 302,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Chicken, mince, raw",
+        "omega_ratio": 0.03,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 303,
+        "bone_percentage": 15,
+        "calcium_phosphorous_ratio": 1.98,
+        "name": "Chicken, thigh, lean flesh, skin & fat, raw, with bone for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 304,
+        "bone_percentage": 25,
+        "calcium_phosphorous_ratio": 1.94,
+        "name": "Chicken, whole, including frame, raw",
+        "omega_ratio": 0.03,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 305,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.98,
+        "name": "Chicken, wing, whole, raw, with bone for consumption",
+        "omega_ratio": 0.01,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 306,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2,
+        "name": "Duck foot, whole, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 307,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Duck, lean flesh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 308,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.08,
+        "name": "Duck, lean flesh, skin & fat, raw, farmed",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 309,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Quail, lean flesh & skin, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 310,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.83,
+        "name": "Quail, whole, raw, including frame for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 311,
+        "bone_percentage": 25,
+        "calcium_phosphorous_ratio": 1.98,
+        "name": "Turkey Neck, raw, with bone for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 312,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Turkey, breast, lean flesh, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 313,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.06,
+        "name": "Turkey, lean flesh, skin & fat, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 314,
+        "bone_percentage": 21,
+        "calcium_phosphorous_ratio": 1.94,
+        "name": "Turkey, thigh, lean flesh, skin & fat, raw, with bone for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Game",
+    "foods": [
+      {
+        "id": 150,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.06,
+        "name": "Buffalo, all cuts, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 151,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Camel, all cuts, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 152,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Crocodile, back leg, raw",
+        "omega_ratio": 0.5,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 153,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Crocodile, tail fillet, raw",
+        "omega_ratio": 0.38,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 154,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.01,
+        "name": "Emu, fan fillet, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 155,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Emu, mince, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 156,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Emu, steak, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 157,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.01,
+        "name": "Kangaroo, mince, raw",
+        "omega_ratio": 0.29,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 158,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.01,
+        "name": "Kangaroo, rump, raw",
+        "omega_ratio": 0.12,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 159,
+        "bone_percentage": 65,
+        "calcium_phosphorous_ratio": 1.99,
+        "name": "Kangaroo, tail, raw, with bone for consumption",
+        "omega_ratio": 0.5,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 160,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Ostrich, fan fillet, raw",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 161,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Ostrich, mince, raw",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 162,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.93,
+        "name": "Pigeon (squab), whole, raw, with bones for consumption",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 163,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.85,
+        "name": "Rabbit, no pelt, farmed, whole, raw, with bones for consumption",
+        "omega_ratio": 0.02,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Offal",
+    "foods": [
+      {
+        "id": 244,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Beef Brain",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 245,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Beef heart, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 246,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Beef kidney, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 247,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.01,
+        "name": "Beef liver, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 248,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.08,
+        "name": "Beef Tripe",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 249,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Chicken giblets",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 250,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Chicken heart, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 251,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Chicken, liver, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 252,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Duck liver, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 253,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Lamb brain",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 254,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Lamb haert, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 255,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Lamb kidney, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 256,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Lamb liver, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 257,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Pork heart, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 258,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Pork kidney, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 259,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Pork liver, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 260,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Pork Spleen",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 261,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.08,
+        "name": "Turkey giblets",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 262,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.1,
+        "name": "Turkey heart, raw",
+        "omega_ratio": 0.01,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 263,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Turkey liver, raw",
+        "omega_ratio": 0.06,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 264,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.02,
+        "name": "Veal heart",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Nuts, seeds and coconut",
+    "foods": [
+      {
+        "id": 229,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.09,
+        "name": "Coconut, cream, regular fat",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 230,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Coconut, fresh, mature fruit, flesh",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 231,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.2,
+        "name": "Coconut, fresh, mature, water or juice",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 232,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.16,
+        "name": "Coconut, milk, canned, regular fat",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 233,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.56,
+        "name": "Nut, almond, with skin, raw, unsalted",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 234,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.57,
+        "name": "Nut, almond, with skin, roasted, unsalted",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 235,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.22,
+        "name": "Nut, brazil, raw or blanched, unsalted",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 236,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.06,
+        "name": "Nut, cashew, raw, unsalted",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 237,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.28,
+        "name": "Nut, hazelnut, raw, unsalted",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 238,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.24,
+        "name": "Nut, macadamia, raw, unsalted",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 239,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.24,
+        "name": "Nut, peanut, with skin, raw, unsalted",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 240,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.73,
+        "name": "Seed, chia, dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 241,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.4,
+        "name": "Seed, linseed or flaxseed",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 242,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.04,
+        "name": "Seed, pumpkin, hulled & dried",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 243,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Seed, sunflower",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Seafood",
+    "foods": [
+      {
+        "id": 315,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.4,
+        "name": "Bass, fillet, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 316,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.07,
+        "name": "Bream, fillet, raw",
+        "omega_ratio": 3.5,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 317,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.57,
+        "name": "Crab, flesh, steamed or boiled",
+        "omega_ratio": 12,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 318,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.09,
+        "name": "Fish, eel, raw",
+        "omega_ratio": 0.75,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 319,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.13,
+        "name": "Mackerel, raw",
+        "omega_ratio": 3.09,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 320,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.8,
+        "name": "Mackrel, canned",
+        "omega_ratio": 13.3,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 321,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Mussel, blue, steamed",
+        "omega_ratio": 8.3,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 322,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.12,
+        "name": "Mussel, green lipped, canned",
+        "omega_ratio": 8.3,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 323,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.32,
+        "name": "Oyster, canned",
+        "omega_ratio": 4.9,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 324,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.05,
+        "name": "Salmon, Atlantic, fillet, raw",
+        "omega_ratio": 1.2,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 325,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.61,
+        "name": "Salmon, pink, canned in brine, drained",
+        "omega_ratio": 11.7,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 326,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.5,
+        "name": "Salmon, red, canned in brine, drained",
+        "omega_ratio": 6.24,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 327,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.26,
+        "name": "Sardine, Australian, whole, raw",
+        "omega_ratio": 22.86,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 328,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.24,
+        "name": "Sardine, dry, whole",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 329,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.35,
+        "name": "Snapper, fillet, raw",
+        "omega_ratio": 4.6,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 330,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.18,
+        "name": "Trout, rainbow, aquacultured, raw",
+        "omega_ratio": 3.59,
+        "omega_ratio_color": "Yellow",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 331,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.03,
+        "name": "Tuna, canned in brine, drained",
+        "omega_ratio": 24.33,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 332,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0.15,
+        "name": "Whiting, King George, flesh, raw",
+        "omega_ratio": 1.5,
+        "omega_ratio_color": "Green",
+        "calcium_phosphorous_ratio_color": "Red"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Other",
+    "foods": [
+      {
+        "id": 284,
+        "bone_percentage": 100,
+        "calcium_phosphorous_ratio": 2,
+        "name": "Bone",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Green"
+      },
+      {
+        "id": 285,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Bone marrow",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 286,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Brewer's Yeast",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 287,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 7.81,
+        "name": "Gelatine, dry, unsweetened",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 288,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 2.67,
+        "name": "Honey",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 289,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Iodine Suppliment",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 290,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 0,
+        "name": "Omega-3 Fish Oil Suppliment, 100% Omega-3",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Red"
+      },
+      {
+        "id": 291,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.02,
+        "name": "Spirulina, dry",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      },
+      {
+        "id": 292,
+        "bone_percentage": 0,
+        "calcium_phosphorous_ratio": 1.09,
+        "name": "Spirulina, raw",
+        "omega_ratio": 0,
+        "omega_ratio_color": "Red",
+        "calcium_phosphorous_ratio_color": "Yellow"
+      }
+    ]
+  }
+]
