@@ -16,7 +16,7 @@ import 'package:pawfect/models/users/user_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class CallApi {
-  final String _baseUrl = 'https://api.pawfect-balance.oz.to/';
+  final String _baseUrl = '';
 
   _setHeaders() => {
     'Content-type': 'application/json',
